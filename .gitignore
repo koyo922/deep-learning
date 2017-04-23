@@ -6,3 +6,5 @@ embeddings/text8.zip
 
 .ipynb_checkpoints/
 **/mnist/
+**/*.pickle
+**/*.zip
