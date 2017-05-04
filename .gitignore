@@ -8,3 +8,4 @@ embeddings/text8.zip
 **/mnist/
 **/*.pickle
 **/*.zip
+**/__pycache__
