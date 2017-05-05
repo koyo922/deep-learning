@@ -21,3 +21,23 @@ image_classification.meta
 preprocess_batch_*.p
 preprocess_training.p
 preprocess_validation.p
+
+### from ../.gitignore
+.DS_Store
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
+
+.ipynb_checkpoints/
+**/mnist/
+**/*.pickle
+**/*.zip
+**/__pycache__
+**/*.gz
+**/*.p
+image-classification/cifar-10-batches-py
+**/*.index
+**/*.meta
+**/*.data-[0-9]*-of-[0-9]*
+**/checkpoint
