@@ -9,3 +9,6 @@ embeddings/text8.zip
 **/*.pickle
 **/*.zip
 **/__pycache__
+**/*.gz
+**/*.p
+image-classification/cifar-10-batches-py
