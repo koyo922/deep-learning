@@ -12,3 +12,7 @@ embeddings/text8.zip
 **/*.gz
 **/*.p
 image-classification/cifar-10-batches-py
+**/*.index
+**/*.meta
+**/*.data-[0-9]*-of-[0-9]*
+**/checkpoint
