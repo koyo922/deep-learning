@@ -16,3 +16,5 @@ image-classification/cifar-10-batches-py
 **/*.meta
 **/*.data-[0-9]*-of-[0-9]*
 **/checkpoint
+transfer-learning/codes
+transfer-learning/labels
